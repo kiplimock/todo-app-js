@@ -68,6 +68,10 @@ form button:hover {
     flex: 1;
 }
 
+.todo-item {
+    padding: 0rem 0.5rem;
+}
+
 .trash-btn, 
 .complete-btn {
     background: #ff6f47;
