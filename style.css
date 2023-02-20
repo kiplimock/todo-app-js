@@ -85,3 +85,8 @@ form button:hover {
 .complete-btn {
     background: #32bd32;
 }
+
+.fa-check,
+.fa-trash {
+    pointer-events: none;
+}
